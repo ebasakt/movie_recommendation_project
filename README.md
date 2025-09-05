@@ -12,6 +12,14 @@ A content-based movie recommendation system built with Python, Pandas, and Sciki
 
 A friendly, content-based movie recommendation system built with Python, Pandas, and Scikit-learn. It cleans and transforms movie metadata, generates TF-IDF features from overviews and genres, and recommends similar movies.
 
+## Pipeline Overview
+
+Here’s a visual of the ETL and recommendation pipeline:
+
+![Movie Recommendation Pipeline](movie_recommendation_pipeline.png)
+
+
+
 ---
 
 ## Features
