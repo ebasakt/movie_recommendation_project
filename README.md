@@ -26,10 +26,3 @@ A friendly, content-based movie recommendation system built with Python, Pandas,
   Find the most similar movies using cosine similarity and show key info like:
   `title`, `original_title`, `budget`, `revenue`, `runtime`, `vote_average`, `release_date`, and `production_countries`.
 
----
-
-## How to Run
-
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/ebasakt/movie-recommendation-pipeline.git
