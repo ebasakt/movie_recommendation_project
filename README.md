@@ -6,11 +6,10 @@ This project uses the `movies_metadata.csv` dataset from Kaggle:
 [Link to dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
 
-A content-based movie recommendation system built with Python, Pandas, and Scikit-learn. This project demonstrates a simple ETL pipeline and feature-based recommendation engine using TF-IDF and cosine similarity.
 
 # Movie Recommendation Pipeline
 
-A friendly, content-based movie recommendation system built with Python, Pandas, and Scikit-learn. It cleans and transforms movie metadata, generates TF-IDF features from overviews and genres, and recommends similar movies.
+A content-based movie recommendation system built with Python, Pandas, and Scikit-learn. This project demonstrates a simple ETL pipeline and feature-based recommendation engine using TF-IDF and cosine similarity.
 
 ## Pipeline Overview
 
