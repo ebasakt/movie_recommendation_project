@@ -4,6 +4,7 @@
 
 This project uses the `movies_metadata.csv` dataset from Kaggle:
 [Link to dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+Download the CSV and place it in the same folder as `movies_recommendation.py`.
 
 
 
